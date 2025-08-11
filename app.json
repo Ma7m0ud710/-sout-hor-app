@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "صوت حر",
+    "slug": "sout-hor",
+    "version": "1.0.0",
+    "sdkVersion": "48.0.0",
+    "orientation": "portrait",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/9/98/Deir_el-Bahari_Temple_%28Hatshepsut%29.jpg",
+    "splash": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Deir_el-Bahari_Temple_%28Hatshepsut%29.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.mahmoudelhasaany.southor",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "https://upload.wikimedia.org/wikipedia/commons/9/98/Deir_el-Bahari_Temple_%28Hatshepsut%29.jpg",
+        "backgroundColor": "#ffffff"
+      }
+    }
+  }
+}
